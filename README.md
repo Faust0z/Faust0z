@@ -1,5 +1,5 @@
 Hi! 👋 I'm a Backend Developer with a **B.S. in Computer Science**, experienced in **Java (Spring Boot)** and **Python (Flask)**.
-I'm passionate about building robust, well-organized, and maintainable systems: not just making things "work", but creating solutions that integrate deep understanding, thought, and industry standards (**IoC/DI, C-S-R, Docker**).
+I'm passionate about the *entire* software lifecycle: from organizing team workflows to building robust, well-organized, and maintainable systems: not just making things "work", but creating solutions that integrate deep understanding, thought, and industry standards (**IoC/DI, C-S-R, Docker**) with team composition.
 Currently focused on writing secure, testable, and scalable REST APIs using the Spring ecosystem. 
 
 **_For more info, you can find me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fausto-mansilla-sanz-289038367/)_**
