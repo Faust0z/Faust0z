@@ -1,25 +1,20 @@
-Hi! 👋 I'm a Backend Developer with a **B.S. in Computer Science**, experienced in **Java (Spring Boot)** and **Python (Flask)**.
+### End-to-End Backend Engineer
+I build resilient, high-availability software ecosystems. My focus is on strict architectural boundaries, automated cloud deployments, and extreme resource optimization. I treat hardware constraints not as limitations, but as engineering challenges.
 
-I'm passionate about the *entire* software lifecycle: 
-- Organizing team workflows.
-- Building robust and maintainable systems.
-- Creating solutions that integrate deep understanding, thought, and industry standards (**IoC/DI, C-S-R, Docker**).
-I'm not focused on only making the software "work", but to create the best possible version of it. 
+**Core Capabilities:**
+- **Software Architecture:** Multi-tenant SaaS, Spring Modulith, Stateless JWT, Feature Toggling.
+- **Performance Engineering:** JVM tuning (Java 21 Virtual Threads, custom GC), Undertow, and In-memory Caching (Caffeine), achieving 4x throughput under strict memory limits (<240MB RAM).
+- **DevOps & Cloud:** 12-Factor Apps, Docker Multi-stage, automated testing pipelines via Testcontainers, and Zero-Downtime PaaS deployments.
+- **Data Engineering:** PostgreSQL 18, Flyway schema migrations, Data Quality pipelines in Python (Pandas/Polars).
 
-Currently focused on writing secure, testable, and scalable **_REST APIs_** using the **_Spring ecosystem_**. 
-
-**_For more info, you can find me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fausto-mansilla-sanz-289038367/)_**
+**_Contact & Trajectory: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fausto-mansilla-sanz-289038367/)_**
 
 ## 💻 Tech Stack
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Java 21](https://img.shields.io/badge/java_21-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/spring_modulith-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres_18-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
