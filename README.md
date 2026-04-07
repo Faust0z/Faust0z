@@ -1,14 +1,13 @@
-### End-to-End Backend Engineer
-I build resilient, high-availability software ecosystems. My focus is on strict architectural boundaries, automated cloud deployments, and extreme resource optimization. I treat hardware constraints not as limitations, but as engineering challenges.
+### Hi! 👋 I'm Fausto, a Backend Developer (B.S. in Computer Science - 2026)
+I'm passionate about the *entire* software lifecycle. I don't just write code that "works"; I focus on building robust, maintainable, and production-ready systems using industry standards like IoC/DI, C-S-R, and Docker. I love treating hardware constraints as engineering challenges.
 
-**Core Capabilities:**
-- **Software Architecture:** Multi-tenant SaaS, Spring Modulith, Stateless JWT, Feature Toggling.
-- **Performance Engineering:** JVM tuning (Java 21 Virtual Threads, custom GC), Undertow, and In-memory Caching (Caffeine), achieving 4x throughput under strict memory limits (<240MB RAM).
-- **DevOps & Cloud:** 12-Factor Apps, Docker Multi-stage, automated testing pipelines via Testcontainers, and Zero-Downtime PaaS deployments.
-- **Data Engineering:** PostgreSQL 18, Flyway schema migrations, Data Quality pipelines in Python (Pandas/Polars).
+**Core Capabilities & Projects:**
+- **Backend (Java):** Built a Multi-Tenant SaaS platform with **Spring Modulith**, optimizing JVM performance (Virtual Threads, Undertow) to sustain high concurrency under <512MB RAM.
+- **Data & APIs (Python):** Developed ETL pipelines using **Pandas**, reducing RAM consumption by >60% via vectorization, and building lightweight APIs with **Flask**.
+- **DevOps & Linux:** Reduced deployment times from 10 to 3 minutes by creating automated **CI/CD** pipelines (GitHub Actions, Testcontainers) and manage my own Linux Home Lab (Bash, Docker Compose).
+- **Teamwork:** Coordinated a team of 8 devs in a university extension project, acting as the bridge between business needs and technical specs.
 
-**_Contact & Trajectory: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fausto-mansilla-sanz-289038367/)_**
-
+**_For more info, you can find me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fausto-mansilla-sanz-289038367/)_**
 ## 💻 Tech Stack
 ![Java 21](https://img.shields.io/badge/java_21-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/spring_modulith-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
